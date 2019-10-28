@@ -2,11 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/winlinvip/mod_replace_protocol"
-	"github.com/pkg/errors"
+	"github.com/winterserver/errors"
 )
 
 func main() {
-	fmt.Println("Complex error is", errors.Errorf("created by github.com/pkg/errors"))
-	fmt.Println(mod_replace_protocol.Errorf("Hello, %v", "Go modules"))
+	fmt.Println(fmt.Sprintf("Complex error is %+v", errors.Errorf("created by github.com/pkg/errors")))
 }
