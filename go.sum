@@ -1,4 +1,4 @@
-github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
-github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/winlinvip/errors v1.0.1 h1:zKE2D10kIKemLGEVFYHMqyp5PJStptijuPWOgJdzCyg=
+github.com/winlinvip/errors v1.0.1/go.mod h1:8GMwjOZ2fXrtkmIjDp6bl+LJBqOnJaWk6tU2Xm/Rhpg=
 github.com/winlinvip/mod_replace_protocol v0.0.1 h1:yyMfZSV24hHcoMZgyIstb0wNNhfuUpqerI2q7+3FlQI=
 github.com/winlinvip/mod_replace_protocol v0.0.1/go.mod h1:6Lr5BcIlkH6LLxXbi6k40siD6tB9S8nwsxuN7JdHG/k=
