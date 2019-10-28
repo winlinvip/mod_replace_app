@@ -2,11 +2,9 @@ package main
 
 import (
 	"fmt"
-	oe "github.com/winlinvip/errors"
-	"github.com/pkg/errors"
+	"github.com/winlinvip/mod_pre_release"
 )
 
 func main() {
-	fmt.Println("Complex error is", errors.Errorf("created by github.com/pkg/errors"))
-	fmt.Println(oe.Errorf("Hello, %v", "Go modules"))
+	fmt.Println("Hello", mod_pre_release.Version())
 }

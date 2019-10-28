@@ -1,4 +1,2 @@
-github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
-github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-github.com/winlinvip/errors v1.0.2 h1:ohQArnqBGtuTRyFRxVJv912NVQnwZxGN5znV1KIzVvA=
-github.com/winlinvip/errors v1.0.2/go.mod h1:8GMwjOZ2fXrtkmIjDp6bl+LJBqOnJaWk6tU2Xm/Rhpg=
+github.com/winlinvip/mod_pre_release v0.0.3 h1:jphe0NtheaQTfy4lpfkEGCunEx1uCtrKgLyI5qtC9UQ=
+github.com/winlinvip/mod_pre_release v0.0.3/go.mod h1:JpN38839P+LXlgJomY03pSE6QOf9Mk65Yw/Ffto+hQM=
